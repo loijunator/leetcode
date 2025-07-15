@@ -1,7 +1,3 @@
-Problem Name: 013_Roman_to_Integer
-Date: 2025-07-15
-Previous Problem: [[]]
-
 # 013_Roman_to_Integer
 
 **Problem:** Given a Roman number, convert it into an integer.
