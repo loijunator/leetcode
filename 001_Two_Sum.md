@@ -1,11 +1,7 @@
-Problem Name: 001 Two Sum
-Date: 2025-07-01
-Previous Problem:  NIL
-
 # 001 Two Sum
 
 **Problem:** 
-
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 ## Logic:
 
@@ -36,6 +32,3 @@ class Solution {
     }
 }
 ```
-
----
-Next Problem: [[]]
