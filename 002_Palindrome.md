@@ -1,7 +1,3 @@
-Problem Name: 002 Palindrome
-Date: 2025-07-01
-Previous Problem: [[001 Two Sum]]
-
 # 002 Palindrome
 
 **Problem:** 
@@ -23,6 +19,3 @@ class Solution:
 		return str(x)[::-1]==str(x)
 ```
 
-
----
-Next Problem: [[]]
